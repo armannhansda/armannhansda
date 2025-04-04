@@ -1,8 +1,14 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=armannhansda.armannhansda&"  />
+</div>
+
+###
+
 <h1 align="center">Hey there 👋</h1>
 
 ###
 
-<p align="left">I'm Arman Hansda, developer from india!<br><br>🎓 Mathematics and Computing @ BIT Mesra  <br>🎨 Designer | 💻 Developer | 🧠 Problem Solver</p>
+<p align="left">I'm Arman Hansda, developer from india!<br><br>🎓 Mathematics and Computing @ BIT Mesra  <br>💻 Developer |🎨 Designer |  🧠 Problem Solver</p>
 
 ###
 
@@ -74,14 +80,16 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armannhansda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="102" alt="languages graph"  />
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29ldG83emtzajV6czV5dnoxYzk4d20wbjlvNjZqMml6OWYwM3NkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+  <img height="222" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlzNHVzeHl5YXFlbGRxYXhjdWR4ZTI2bDRlcDN4bnV2Y3hpaWsxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
 </div>
 
 ###
