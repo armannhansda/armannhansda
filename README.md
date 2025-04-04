@@ -80,8 +80,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armannhansda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="102" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armannhansda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="126" alt="languages graph"  />
 </div>
 
 ###
@@ -89,7 +89,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="222" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlzNHVzeHl5YXFlbGRxYXhjdWR4ZTI2bDRlcDN4bnV2Y3hpaWsxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
+  <img height="293" src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif?cid=ecf05e471q3tp7idni1eyvb3560ff3u8ycyn7xxse2dp1n76&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
