@@ -18,7 +18,7 @@ I’m a **Mathematics and Computing student at BIT Mesra** with a strong focus o
 I enjoy working at the intersection of **development, design, and problem-solving**, aiming to create products that are both efficient and meaningful.
 
 - 💻 Full Stack Developer (MERN + Next.js)
-- 🎨 UI/UX Designer with 4+ years experience
+- 🎨 UI/UX Designer with 2+ years experience
 - 🧠 Strong foundation in DSA & problem solving
 - ⚙️ Exploring systems programming with Rust
 
