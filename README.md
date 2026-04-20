@@ -1,99 +1,120 @@
-<h1 align="center">Arman Hansda</h1>
-<p align="center">
-  Full Stack Developer • UI/UX Designer • Problem Solver
-</p>
+<!-- ===== Banner ===== -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arman-hansda/">LinkedIn</a> •
-  <a href="mailto:armanhansda46@gmail.com">Email</a> •
-  <a href="https://x.com/arman_hansda5">Twitter</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Arman%20Hansda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- ===== Typing Intro ===== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Systems+Engineer;Building+Things+That+Scale" />
+</p>
+
+<!-- ===== Social ===== -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arman-hansda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:armanhansda46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/arman_hansda5"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👋 About Me
+## ⚡ Who I Am
 
-I’m a **Mathematics and Computing student at BIT Mesra** with a strong focus on building scalable systems and intuitive user experiences.
+```txt
+Mathematics & Computing @ BIT Mesra  
+Full Stack Developer + UI/UX Designer  
+Focused on systems, scalability, and real-world impact  
+```
 
-I enjoy working at the intersection of **development, design, and problem-solving**, aiming to create products that are both efficient and meaningful.
-
-- 💻 Full Stack Developer (MERN + Next.js)
-- 🎨 UI/UX Designer with 2+ years experience
-- 🧠 Strong foundation in DSA & problem solving
-- ⚙️ Exploring systems programming with Rust
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Development
-- **Languages:** JavaScript, TypeScript, C++, Rust, Java  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-
-### ⚙️ Tools & Platforms
-- Docker, Firebase, AWS  
-- Git & GitHub  
-
-### 🎨 Design
-- Figma, Illustrator  
-- After Effects, Blender  
+I build products where **engineering meets design** — clean interfaces backed by strong, scalable systems.
 
 ---
 
-## 🚀 Projects
+## 🧠 Engineering Mindset
 
-### 🔍 Search Engine Platform (In Progress)
+* Think in **systems, not just features**
+* Prefer **scalable architecture over quick hacks**
+* Balance **performance + usability**
+* Build with a **long-term perspective**
 
-A platform aimed at providing **comprehensive and structured information** for any search query.
+---
 
-- Aggregates product data, reviews, and related content  
-- Allows users to contribute reviews and insights  
-- Focused on building a **centralized knowledge + product discovery system**  
+## 🚀 What I'm Building
+
+### 🔍 Search Engine Platform
+
+A structured layer over the internet to make information **discoverable, reliable, and user-driven**.
+
+```txt
+→ Aggregates product data + reviews  
+→ Enables user contributions  
+→ Focus: search + trust + discovery  
+```
 
 ---
 
 ### ❄️ SnowID
 
-A unique identification system designed for generating **scalable and distributed unique IDs**.
+A distributed unique ID generation system designed for **high-scale backend systems**.
 
-- Inspired by distributed ID generation concepts  
-- Focus on performance, uniqueness, and scalability  
-- Useful for backend systems and large-scale applications  
+```txt
+→ High performance ID generation  
+→ Collision-free distributed design  
+→ Inspired by large-scale architectures  
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armannhansda&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armannhansda&layout=compact" height="150"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,java,react,nextjs,nodejs,express,mongodb,docker,firebase,aws,git,figma&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=armannhansda&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=armannhansda&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armannhansda&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Mastering **Data Structures & Algorithms**
-- Building **scalable backend systems**
-- Exploring **system design & distributed systems**
-- Improving **developer productivity tools**
+```txt
+→ Data Structures & Algorithms  
+→ Backend Architecture & System Design  
+→ Distributed Systems  
+→ Building Production-Ready Applications  
+```
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-I’m always open to:
-- Collaboration on interesting projects  
-- Internship opportunities  
-- Building impactful products  
-
-📩 **Email:** armanhansda46@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/arman-hansda/  
+<p align="center">
+  <a href="mailto:armanhansda46@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/arman-hansda/">LinkedIn</a> •
+  <a href="https://x.com/arman_hansda5">Twitter</a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Building systems that scale and products that matter.</i>
+  <b>Design. Build. Scale.</b>
+</p>
+
+<!-- ===== Footer Wave ===== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
 </p>
