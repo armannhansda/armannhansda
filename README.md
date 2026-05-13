@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arman-hansda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:armanhansda46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/arman_hansda5"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/Armandotdev"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -104,7 +104,7 @@ A distributed unique ID generation system designed for **high-scale backend syst
 <p align="center">
   <a href="mailto:armanhansda46@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/arman-hansda/">LinkedIn</a> •
-  <a href="https://x.com/arman_hansda5">Twitter</a>
+  <a href="https://x.com/Armandotdev">Twitter</a>
 </p>
 
 ---
