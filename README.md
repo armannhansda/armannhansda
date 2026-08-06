@@ -24,7 +24,7 @@
 
 ```txt
 Mathematics & Computing @ BIT Mesra  
-Full Stack Developer + UI/UX Designer  
+Software Developer + UI/UX Designer  
 Focused on systems, scalability, and real-world impact  
 ```
 
